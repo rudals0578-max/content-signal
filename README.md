@@ -115,7 +115,9 @@ CONTENT SIGNAL은 프로그램별 데이터를 분석하여
 
 ### 🎬 CONTENT SIGNAL Demo
 
-<!-- 여기에 CONTENT SIGNAL MP4 영상을 GitHub에서 드래그해서 넣으세요 -->
+
+https://github.com/user-attachments/assets/44460afd-b83d-4154-9e4d-9d0174353ea1
+
 
 ---
 
@@ -153,7 +155,10 @@ AI 모델을 직접 개발한 것이 아니라,
 
 ### 🎬 CREATIVE SIGNAL Demo
 
-<!-- 여기에 CREATIVE SIGNAL MP4 영상을 GitHub에서 드래그해서 넣으세요 -->
+
+
+https://github.com/user-attachments/assets/43d0d8ad-2803-482d-a6ca-0cb503a09dae
+
 
 ---
 
@@ -188,11 +193,12 @@ BUSINESS SIGNAL은 광고주의 조건을 입력하면
 <img width="1280" height="720" alt="슬라이드21" src="https://github.com/user-attachments/assets/1e0733a2-89ba-436a-8982-892552627d38" />
 
 
-
-
 ### 🎬 BUSINESS SIGNAL Demo
 
-<!-- 여기에 BUSINESS SIGNAL MP4 영상을 GitHub에서 드래그해서 넣으세요 -->
+
+
+https://github.com/user-attachments/assets/a586fc76-bab8-4e0a-9197-b9b2cbfb62a0
+
 
 ---
 
