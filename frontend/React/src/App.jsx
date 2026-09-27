@@ -7,7 +7,7 @@ import Creative from "./pages/Creative";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/content-signal">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/analysis" element={<Analysis />} />
