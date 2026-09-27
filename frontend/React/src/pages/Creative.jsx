@@ -83,7 +83,7 @@ function Creative() {
   // ========================================
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:8000/creative")
+      .get("https://content-signal.onrender.com/creative")
       .then((response) => {
         setCreativeData(response.data);
       })
@@ -101,7 +101,7 @@ function Creative() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:8000/programs")
+      .get("https://content-signal.onrender.com/programs")
       .then((response) => {
         setPrograms(response.data || []);
       })
@@ -272,19 +272,19 @@ function Creative() {
       const [detailResponse, signalResponse, weeklyResponse, commentResponse] =
         await Promise.all([
           axios.get(
-            `http://127.0.0.1:8000/programs/${encodeURIComponent(programName)}`,
+            `https://content-signal.onrender.com/programs/${encodeURIComponent(programName)}`,
           ),
 
           axios.get(
-            `http://127.0.0.1:8000/analysis/${encodeURIComponent(programName)}`,
+            `https://content-signal.onrender.com/analysis/${encodeURIComponent(programName)}`,
           ),
 
           axios.get(
-            `http://127.0.0.1:8000/programs/${encodeURIComponent(programName)}/weekly`,
+            `https://content-signal.onrender.com/programs/${encodeURIComponent(programName)}/weekly`,
           ),
 
           axios.get(
-            `http://127.0.0.1:8000/programs/${encodeURIComponent(programName)}/comments`,
+            `https://content-signal.onrender.com/programs/${encodeURIComponent(programName)}/comments`,
           ),
         ]);
 
@@ -350,7 +350,7 @@ function Creative() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:8000/creative/ai-insight",
+        "https://content-signal.onrender.com/creative/ai-insight",
         {
           program: insightData.program,
           channel: insightData.channel || null,

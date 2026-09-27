@@ -120,7 +120,7 @@ function Analysis() {
 
     axios
 
-      .get("http://127.0.0.1:8000/programs")
+      .get("https://content-signal.onrender.com/programs")
 
       .then((response) => {
 
@@ -202,13 +202,13 @@ function Analysis() {
 
         await Promise.all([
 
-          axios.get(`http://127.0.0.1:8000/programs/${encodedName}`),
+          axios.get(`https://content-signal.onrender.com/programs/${encodedName}`),
 
-          axios.get(`http://127.0.0.1:8000/analysis/${encodedName}`),
+          axios.get(`https://content-signal.onrender.com/analysis/${encodedName}`),
 
-          axios.get(`http://127.0.0.1:8000/programs/${encodedName}/weekly`),
+          axios.get(`https://content-signal.onrender.com/programs/${encodedName}/weekly`),
 
-          axios.get(`http://127.0.0.1:8000/programs/${encodedName}/comments`),
+          axios.get(`https://content-signal.onrender.com/programs/${encodedName}/comments`),
 
         ]);
 

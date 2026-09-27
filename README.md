@@ -285,7 +285,7 @@ python -m uvicorn backend.main:app --reload
 FastAPI 실행 후 Swagger에서 API를 확인할 수 있습니다.
 
 <pre>
-http://127.0.0.1:8000/docs
+https://content-signal.onrender.com/docs
 </pre>
 
 ### 🖥️ Frontend

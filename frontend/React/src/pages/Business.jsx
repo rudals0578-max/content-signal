@@ -137,7 +137,7 @@ function Business() {
 
     try {
       const response = await axios.get(
-        "http://127.0.0.1:8000/business/candidates",
+        "https://content-signal.onrender.com/business/candidates",
         {
           params: {
             age,
@@ -186,11 +186,11 @@ function Business() {
     try {
       const [detailResponse, signalResponse] = await Promise.all([
         axios.get(
-          `http://127.0.0.1:8000/programs/${encodeURIComponent(programName)}`,
+          `https://content-signal.onrender.com/programs/${encodeURIComponent(programName)}`,
         ),
 
         axios.get(
-          `http://127.0.0.1:8000/analysis/${encodeURIComponent(programName)}`,
+          `https://content-signal.onrender.com/analysis/${encodeURIComponent(programName)}`,
         ),
       ]);
 
@@ -316,7 +316,7 @@ function Business() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:8000/business/ai-match",
+        "https://content-signal.onrender.com/business/ai-match",
         {
           program: programDetail.program,
 
