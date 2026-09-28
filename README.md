@@ -13,7 +13,8 @@
 ---
 
 ## 🎯 01. Project Background
-<img width="1280" height="720" alt="슬라이드4" src="https://github.com/user-attachments/assets/4f7e15e4-bfe7-47af-85d1-ee68aa3fdf7b" />
+<img width="1280" height="720" alt="슬라이드4" src="https://github.com/user-attachments/assets/f6dbf368-282b-4913-b106-3a118891093e" />
+
 
 방송 콘텐츠의 성과는 주로 **시청률**을 중심으로 평가되어 왔습니다.
 
@@ -35,7 +36,8 @@ CONTENT SIGNAL은 이러한 데이터를 함께 분석하여
 ### 📌 Data Source
 
 본 프로젝트는 **RACOI 방송 콘텐츠 반응 데이터**를 활용했습니다.
-<img width="1280" height="720" alt="슬라이드7" src="https://github.com/user-attachments/assets/c8c2dea5-4edb-4674-9a56-c3bc450b7eea" />
+<img width="1280" height="720" alt="슬라이드7" src="https://github.com/user-attachments/assets/9702e5ba-4783-436f-a8fb-b2455c04b839" />
+
 
 ### 🔎 Data Processing
 
@@ -48,7 +50,8 @@ CONTENT SIGNAL은 이러한 데이터를 함께 분석하여
 - 지표 간 상관관계 분석
 - Percentile 기반 프로그램 비교
 
-<img width="1280" height="720" alt="슬라이드8" src="https://github.com/user-attachments/assets/6998fdde-e3bb-44ce-9aab-e6a34b8ef8dc" />
+<img width="1280" height="720" alt="슬라이드8" src="https://github.com/user-attachments/assets/83d14fd7-bb9b-4f44-bcca-f2e7e0a34392" />
+
 
 | Signal | 주요 데이터 |
 | --- | --- |
@@ -68,7 +71,7 @@ EDA 결과, **TV 시청률과 DIGITAL 반응은 항상 같은 방향으로 움�
 또한 본 데이터에서는 **2049 시청률이 가구 시청률보다 게시글 수와 동영상 조회수에 더 높은 상관관계**를 보였습니다.
 
 > 💡 **시청률 하나만으로는 설명하기 어려운 콘텐츠의 또 다른 신호가 존재할 수 있다.**
-> <img width="1280" height="720" alt="슬라이드11" src="https://github.com/user-attachments/assets/dc89b406-a076-4a87-a650-5e6c77dd0e9b" />
+<img width="1280" height="720" alt="슬라이드11" src="https://github.com/user-attachments/assets/72287999-eba0-4da7-a1d4-777cb552f3cc" />
 
 ---
 
@@ -82,7 +85,8 @@ CONTENT SIGNAL은 프로그램별 데이터를 분석하여
 단순 수치 비교가 아니라 **Percentile 기반 상대적 위치**를 활용해  
 전체 프로그램 가운데 해당 콘텐츠가 어느 수준의 신호를 가지고 있는지 확인합니다.
 
-<img width="1280" height="720" alt="슬라이드12" src="https://github.com/user-attachments/assets/17972be7-ece0-4712-b33d-d4f4760809cd" />
+<img width="1280" height="720" alt="슬라이드12" src="https://github.com/user-attachments/assets/82b89cb3-a744-426e-a95a-56049ae09b0e" />
+
 
 ### ✨ 주요 기능
 
@@ -108,8 +112,8 @@ CONTENT SIGNAL은 프로그램별 데이터를 분석하여
 
 ### 🖥️ Service Preview
 
-<img width="1280" height="720" alt="슬라이드13" src="https://github.com/user-attachments/assets/83bd1685-7ba5-4f58-ba9e-0f3c18b1a1b0" />
-<img width="1280" height="720" alt="슬라이드14" src="https://github.com/user-attachments/assets/e160d99e-3e00-48af-bb5c-3e75d3b7c6a4" />
+<img width="1280" height="720" alt="슬라이드13" src="https://github.com/user-attachments/assets/92f60af0-59d4-4bcd-a24a-880e5784f173" />
+<img width="1280" height="720" alt="슬라이드14" src="https://github.com/user-attachments/assets/ff61520e-f003-4908-acd5-e4ebb65f52e3" />
 
 
 
@@ -150,8 +154,10 @@ AI 모델을 직접 개발한 것이 아니라,
 
 ### 🖥️ Service Preview
 
-<img width="1280" height="720" alt="슬라이드16" src="https://github.com/user-attachments/assets/420984ed-4bde-497f-a8c7-0fcb67693e35" />
-<img width="1280" height="720" alt="슬라이드18" src="https://github.com/user-attachments/assets/252bf8ca-5c33-4465-a452-5c11e86b5cec" />
+<img width="1280" height="720" alt="슬라이드16" src="https://github.com/user-attachments/assets/1efd314d-eb17-4afe-8543-0631d117ca65" />
+<img width="1280" height="720" alt="슬라이드18" src="https://github.com/user-attachments/assets/6a7417d9-8b9d-4915-8a8a-71dc3cda6af6" />
+
+
 
 ### 🎬 CREATIVE SIGNAL Demo
 
@@ -188,9 +194,11 @@ BUSINESS SIGNAL은 광고주의 조건을 입력하면
 > **후보 프로그램 탐색을 위한 서비스 기준**입니다.
 
 ### 🖥️ Service Preview
-<img width="1280" height="720" alt="슬라이드19" src="https://github.com/user-attachments/assets/f05d8c67-dc4a-41f1-8b76-3cd100c23700" />
-<img width="1280" height="720" alt="슬라이드20" src="https://github.com/user-attachments/assets/b5df50e5-a3a7-46c7-b616-fd02db8787f1" />
-<img width="1280" height="720" alt="슬라이드21" src="https://github.com/user-attachments/assets/1e0733a2-89ba-436a-8982-892552627d38" />
+<img width="1280" height="720" alt="슬라이드19" src="https://github.com/user-attachments/assets/0b3a48d3-4967-4011-8009-0e98b4ac1ce4" />
+<img width="1280" height="720" alt="슬라이드20" src="https://github.com/user-attachments/assets/f83881dd-b319-46d3-9316-eb27eeb4fa01" />
+<img width="1280" height="720" alt="슬라이드21" src="https://github.com/user-attachments/assets/4925a6e6-637c-403a-8a85-8ed859708e95" />
+
+
 
 
 ### 🎬 BUSINESS SIGNAL Demo
