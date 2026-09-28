@@ -349,4 +349,4 @@ AI 기능을 제외한 기본 데이터 분석 기능은 별도로 확인할 수
 
 발표 자료의 전체 내용은 아래 원본 파일에서 확인할 수 있습니다.
 
-[📥 CONTENT SIGNAL 포트폴리오 PPT 원본 다운로드](./portfolio/CONTENT_SIGNAL_Portfolio_이경민.pptx)
+[📥 CONTENT SIGNAL 포트폴리오 PPT 원본 다운로드](https://raw.githubusercontent.com/rudals0578-max/content-signal/main/portfolio/CONTENT_SIGNAL_Portfolio_이경민.pptx)
